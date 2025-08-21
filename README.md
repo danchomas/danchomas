@@ -11,7 +11,7 @@
 - back developer at Tiddle (startup)
   seveloping the server-side architecture alongside my studies
 
-# 💻 Tech Stack:
+# 💻 tech stack:
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,django,fastapi,sqlite,linux,postgresql,docker,git,gitlab,github,bash)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
