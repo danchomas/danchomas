@@ -15,6 +15,6 @@
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,django,fastapi,sqlite,linux,postgresql,docker,git,gitlab,github,bash)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=danchomas&theme=dark&hide_border=false&include_all_commits=true=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=danchomas&theme=dark&hide_border=false&include_all_commits&private_commits=true=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=danchomas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danchomas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
