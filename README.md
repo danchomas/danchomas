@@ -1,6 +1,6 @@
 ## q
 
-![Image](https://github.com/user-attachments/assets/a8a5f5c3-21c2-4060-8f30-6ef3f922aafd)
+![](https://github.com/danchomas/danchomas/blob/main/assets/berserk.gif)
 
 # about me:
 **education:**
