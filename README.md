@@ -14,7 +14,7 @@
   seveloping the server-side architecture alongside my studies
 
 # tech stack:
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,django,fastapi,sqlite,linux,postgresql,docker,git,gitlab,github,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=golang,python,fastapi,postgresql,docker,git,redis)](https://skillicons.dev)
 
 # github stats:
 ![](https://github-readme-stats.vercel.app/api?username=danchomas&theme=dark&hide_border=false&include_all_commits&private_commits=true=true)<br/>
